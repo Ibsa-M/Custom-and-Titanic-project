@@ -140,7 +140,7 @@ Filtered specific groups such as:
 1. Clone the repository:
 
 ```id="clone"
-git clone https://github.com/Ibsa-M/Own-and-Titanic-project.git
+git clone https://github.com/Ibsa-M/Custom-and-Titanic-project.git
 ```
 
 2. Navigate to project:
